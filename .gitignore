@@ -1,0 +1,23 @@
+# Build output — generated automatically, never push these
+bin/
+obj/
+
+# Data files — contain user passwords and private data, never push
+data/
+
+# Visual Studio files — not needed by others
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Rider IDE files
+.idea/
+
+# Test results
+TestResults/
