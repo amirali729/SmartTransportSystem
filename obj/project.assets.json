@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ABC\\.nuget\\packages\\": {}
+    "C:\\Users\\AHMAD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Smart Transport\\Smart Transport.csproj",
+      "projectUniqueName": "C:\\SmartTransportSystem\\Smart Transport.csproj",
       "projectName": "Smart Transport",
-      "projectPath": "C:\\Smart Transport\\Smart Transport.csproj",
-      "packagesPath": "C:\\Users\\ABC\\.nuget\\packages\\",
-      "outputPath": "C:\\Smart Transport\\obj\\",
+      "projectPath": "C:\\SmartTransportSystem\\Smart Transport.csproj",
+      "packagesPath": "C:\\Users\\AHMAD\\.nuget\\packages\\",
+      "outputPath": "C:\\SmartTransportSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ABC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\AHMAD\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

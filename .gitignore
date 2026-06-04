@@ -1,6 +1,6 @@
 # Build output — generated automatically, never push these
-# bin/
-# obj/
+bin/
+obj/
 
 # Data files — contain user passwords and private data, never push
 data/
