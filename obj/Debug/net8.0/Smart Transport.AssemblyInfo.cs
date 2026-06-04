@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Smart Transport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8c195c1ff07df969ff946de594857a49a56d19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e3a916a91023492690a120da785559e10945f4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Smart Transport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Smart Transport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
